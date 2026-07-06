@@ -10,8 +10,7 @@ TaskFlow é um aplicativo Android desenvolvido para auxiliar colaboradores no ge
 Muitas pequenas empresas utilizam anotações em papel ou aplicativos de mensagens para controlar atividades internas, o que pode causar esquecimentos, perda de informações e baixa produtividade. O aplicativo centraliza essas informações em uma única plataforma.
 
 ## Plataforma escolhida
-
-- Android
+Android
 
 ## Interface do usuário (UI)
 
